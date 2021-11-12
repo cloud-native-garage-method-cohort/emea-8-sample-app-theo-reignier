@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to Theo Reignier's app.
+          Welcome to Theo Reignier's app. <br />
           This project is part of the Cloud Native Bootcamp.
         </p>
         <a
