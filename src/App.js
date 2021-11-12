@@ -7,15 +7,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to Theo Reignier's app.
+          This project is part of the Cloud Native Bootcamp.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/cloud-native-garage-method-cohort/emea-8-sample-app-theo-reignier"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          GitHub repository
         </a>
       </header>
     </div>
